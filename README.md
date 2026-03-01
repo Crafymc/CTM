@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="Screenshot 2026-03-01 152705" src="https://github.com/user-attachments/assets/c49c69d2-b3e5-4e5e-9b14-68a59bf006a5" /># CTM
+# CTM
 ![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet)  ![Project](https://img.shields.io/badge/Project-CTM%20%7C%20Crafy's%20Troll%20Menu-red) ![Secret](https://img.shields.io/badge/Secret-Rename%20Cookie%20to%20Jeff%20and%20also%20Bob-brown)
 Crafy's Troll Menu! Troll your friends or yourself with this new troll menu! Get a anvil and name a cookie Jeff and Bob to change a few settings! Right click or hold for mobile.
 <<img width="1919" height="1079" alt="Screenshot 2026-03-01 152705" src="https://github.com/user-attachments/assets/7f7f7392-db15-461f-a4d4-5f9aeae243c2" />
